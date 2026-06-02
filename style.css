@@ -1,0 +1,22 @@
+body{
+    font-family: Arial;
+}
+
+.caja{
+    border: 1px solid black;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.tarjeta{
+    border: 1px solid black;
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.seleccionada{
+    background-color: yellow;
+}
