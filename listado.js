@@ -2,6 +2,7 @@ let elementos = [
     {nombre:"GTA V", tipo:"juego"},
     {nombre:"CS2", tipo:"juego"},
     {nombre:"Minecraft", tipo:"juego"},
+    {nombre:"Valorant", tipo:"juego"},
     {nombre:"Manzana", tipo:"fruta"},
     {nombre:"Banana", tipo:"fruta"},
     {nombre:"Pera", tipo:"fruta"}
